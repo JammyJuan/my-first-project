@@ -1,2 +1,1 @@
-# my-first-project
-this is a new project to test.
+“Hello, GitHub! This is my first project!”
